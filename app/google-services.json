@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183589313839",
+    "project_id": "real-time-chat-11c4d",
+    "storage_bucket": "real-time-chat-11c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183589313839:android:68f22ebef63176908395da",
+        "android_client_info": {
+          "package_name": "com.shaon2016.firebaserealtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183589313839-sf6s4ajarren6bps2gu79ng08eq844cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqnx5Wf0Bdhr-feWmXaJVIgQY_7UGv28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183589313839-sf6s4ajarren6bps2gu79ng08eq844cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
